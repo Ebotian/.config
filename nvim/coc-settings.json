@@ -1,0 +1,6 @@
+{
+	"coc.preferences.extensionUpdateCheck": "weekly",
+	
+	"semanticTokens.enable": true,
+
+}

@@ -1,0 +1,1 @@
+/home/yibotian/.dotfiles/init.vim
